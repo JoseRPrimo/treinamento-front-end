@@ -26,6 +26,7 @@ body{
     margin-bottom: -13%;
     border-radius: 3%;
     margin-right: -52%;
+
 }
 
 input{
@@ -35,9 +36,9 @@ input{
     margin-top: -2%;
 }
 
-.painel-cadastro > h3{
+label{
     margin-right: auto !important;
-    margin-left: 15%;
+    margin-left: 24.5%;
 }
 #logo{
     width: 8.1%;
@@ -137,8 +138,8 @@ html{
 }
 
 form{
-    margin-left: 50%;
     justify-content: center;
+    align-items: center;
     display: flex;
     width: 100%;
     flex-direction: column;
@@ -151,6 +152,6 @@ label{
     justify-content: start;
 }
 
-form > input{
+input{
     align-items: center;
 }
